@@ -4,9 +4,11 @@ Credential phishing using Android Hotspot Captive Portals
 
 ### Requirements
 
-android
-termux
-root - required for redirecting requests with iptables
+* android
+
+* termux
+
+* root - required for redirecting requests with iptables
 
 ### Setup
 
