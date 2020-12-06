@@ -34,6 +34,10 @@ Run redirect.sh as root
 
 `php -S 0.0.0.0:8080`
 
+### Demo
+
+[![Android WiFi hotspot phishing](https://img.youtube.com/vi/lZf9eqXDZOE/hqdefault.jpg)](https://youtu.be/lZf9eqXDZOE)
+
 ### Notes
 
 Tested on Sony Xperia XZ1 Compact LineageOS 17.1 with Magisk
