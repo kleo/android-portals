@@ -36,7 +36,7 @@ Run redirect.sh as root
 
 ### Demo
 
-[Android WiFi hotspot phishing](https://open.tube/videos/watch/99e17e21-d4ae-4cf9-a9a1-ead059868d66)
+https://user-images.githubusercontent.com/13497504/162899176-ff72aab1-5a1b-40f5-8740-134dc4af42a8.mp4
 
 ### Notes
 
